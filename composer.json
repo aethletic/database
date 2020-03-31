@@ -1,0 +1,25 @@
+{
+    "name": "aethletic/database",
+    "description" : "",
+    "license": "MIT",
+    "keywords": [],
+    "authors": [
+        {
+            "name": "Joe Green",
+            "email": "joe.green0991@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "psr/log": "~1.0"
+    },
+    "require-dev": {
+        "mockery/mockery": "*",
+        "satooshi/php-coveralls": "dev-master",
+    },
+    "autoload": {
+        "psr-4": {
+            "Database\\": "src"
+        }
+    }
+}
