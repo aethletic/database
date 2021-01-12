@@ -1,14 +1,8 @@
 {
-    "name": "aethletic/database",
+    "name": "chipslays/database",
     "description" : "",
     "license": "MIT",
     "keywords": [],
-    "authors": [
-        {
-            "name": "John Snow",
-            "email": "john@email.com"
-        }
-    ],
     "require": {
         "php": ">=5.4.0",
         "psr/log": "~1.0"
